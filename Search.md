@@ -13,14 +13,14 @@
 
 <br />
 
-👀 엔에이치엔 소프트
+👀 엔에이치엔 소프크
 
 - 자격요건
   - 자바스크립트 개발 포함하여 전체 개발경험 2년이상
   - HTML, CSS 등 W3C 웹표준 규격에 대한 이해와 사용능력
   - ECMAScript, HTML5 API에 대한 이해와 사용능력
   - Cross-Browsing 이슈 해결능력
-  - Javascript MV\* 프레임웍(React.js, Vue.js, Angular.js) 개발 및 운영경험
+  - Javascript MV\* 프레임워크(React.js, Vue.js, Angular.js) 개발 및 운영경험
   - JavaScript 에 대한 깊은 이해
 - 업무내용
   - 웹 서비스 자바스크립트 개발
